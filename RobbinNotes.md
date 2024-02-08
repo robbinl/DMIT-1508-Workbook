@@ -1,0 +1,1 @@
+Each [Table1] must-be(1) OR may-be(0) <relationship> one-and-only-one (1) OR one-or-many [Table2]
